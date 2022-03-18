@@ -25,3 +25,10 @@ Arduino library for kids to program Attiny85 chips so that they create their own
     Restart the computer.
 
 4. Download the present library. Unzip it in your Arduino folder, in `libraries`. Quit Arduino and open the app again. Now you can use the Jokermusikk library.
+
+## Settings in Arduino IDE
+
+- Board: Attiny25/45/85 (No Bootloader)
+- Chips: Attiny85
+- Clock source: 1MHz (internal)
+- Programmer: USBtinyISP (AttinyCore) SLOW 
