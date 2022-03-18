@@ -22,6 +22,6 @@ Arduino library for kids to program Attiny85 chips so that they create their own
 
     `sudo gpasswd -a [user] dialout`
 
-    Log user out and in again.
+    Restart the computer.
 
 4. Download the present library. Unzip it in your Arduino folder, in `libraries`. Quit Arduino and open the app again. Now you can use the Jokermusikk library.
